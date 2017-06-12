@@ -1,0 +1,9 @@
+E:\ProcessNote\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe.config
+E:\ProcessNote\ProcessNote\ProcessNote\bin\Debug\ProcessNote.exe
+E:\ProcessNote\ProcessNote\ProcessNote\bin\Debug\ProcessNote.pdb
+E:\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csprojResolveAssemblyReference.cache
+E:\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.Form1.resources
+E:\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.Properties.Resources.resources
+E:\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.csproj.GenerateResource.Cache
+E:\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.exe
+E:\ProcessNote\ProcessNote\ProcessNote\obj\Debug\ProcessNote.pdb
